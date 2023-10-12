@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>My Status</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="my_status">e4b6305087b5e110fea1ebd73cbb3533</sp_page>
+        <sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>sudranjan</sys_created_by>
+        <sys_created_on>2023-03-21 10:13:37</sys_created_on>
+        <sys_id>ce2238d88775e110fea1ebd73cbb35c7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Status</sys_name>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_ce2238d88775e110fea1ebd73cbb35c7</sys_update_name>
+        <sys_updated_by>sudranjan</sys_updated_by>
+        <sys_updated_on>2023-03-21 10:36:32</sys_updated_on>
+        <table/>
+        <type>page</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce2238d88775e110fea1ebd73cbb35c7"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18b22c8c0160000001</claim_timestamp>
+        <metadata_update_name>sp_rectangle_menu_item_ce2238d88775e110fea1ebd73cbb35c7</metadata_update_name>
+        <previous_claim_app_version>27.1.5</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>plalitmewada</sys_created_by>
+        <sys_created_on>2023-10-12 07:27:43</sys_created_on>
+        <sys_id>254a374a87357910a395cbfc0ebb3551</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>plalitmewada</sys_updated_by>
+        <sys_updated_on>2023-10-12 07:27:43</sys_updated_on>
+    </sys_claim>
+</record_update>

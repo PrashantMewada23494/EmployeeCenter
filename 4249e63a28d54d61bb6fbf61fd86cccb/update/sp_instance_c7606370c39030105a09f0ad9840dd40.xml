@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">17506370c39030105a09f0ad9840dd3b</sp_column>
+        <sp_widget display_value="Topic Header">10e99777c38830105a09f0ad9840ddbd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-21 10:03:34</sys_created_on>
+        <sys_id>c7606370c39030105a09f0ad9840dd40</sys_id>
+        <sys_mod_count>87</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_instance_c7606370c39030105a09f0ad9840dd40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-09 05:58:03</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"include_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"primary_display": {
+		"value": "icon",
+		"displayValue": "Icon"
+	},
+	"secondary_display": {
+		"value": "banner",
+		"displayValue": "Banner"
+	},
+	"select_topics": {
+		"value": "00a03e08c3203010069aec4b7d40dded,46406d67c3303010069aec4b7d40dd5b,d5d0fe08c3203010069aec4b7d40dd47,af62e204c3203010069aec4b7d40dd0e,35dd62c4c3203010069aec4b7d40ddb4,988497a7c3053010069aec4b7d40ddea,87a0be08c3203010069aec4b7d40dd30,ad302d67c3303010069aec4b7d40dde5,f8202d67c3303010069aec4b7d40dd53,1b10e567c3303010069aec4b7d40dda1,782413a7c3053010069aec4b7d40ddf1,8dffa608c3203010069aec4b7d40dd56,06d3df67c3053010069aec4b7d40dd70,a501aec0c3203010069aec4b7d40dd3a,da803a08c3203010069aec4b7d40dd82,0a3d6a84c3203010069aec4b7d40ddc9,4be0be08c3203010069aec4b7d40dd27,d22413a7c3053010069aec4b7d40ddf8,8dcd62c4c3203010069aec4b7d40dd1b,7f306d67c3303010069aec4b7d40dd7b,90fda2c4c3203010069aec4b7d40ddf4,f1017248c3203010069aec4b7d40dddf,888f5567c3303010069aec4b7d40dd99",
+		"displayValue": "Benefits, Building Access, Career Development, Contracts, Corporate Cards, Developer Services, Employee Conduct, Events, Food and Catering, Furniture and Supplies, Hardware, HR, IT, Legal, Onboarding, Purchase and Expense, Return to Workplace, Software, Supplier Services, Transportation, Travel and Expenses, Travel and Relocation, Workplace"
+	},
+	"banner_background_color": {
+		"value": "brand-primary",
+		"displayValue": "Brand Primary"
+	},
+	"banner_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"banner_image_position": {
+		"value": "center center",
+		"displayValue": "Center Center"
+	},
+	"banner_image_display": {
+		"value": "cover",
+		"displayValue": "Scale to fit"
+	},
+	"banner_text_overlay_color": {
+		"value": "topic-header-gradient-dark",
+		"displayValue": "Overlay Dark"
+	},
+	"banner_text_overlay_transparency": {
+		"value": "0.5",
+		"displayValue": "0.5"
+	},
+	"icon_background_color": {
+		"value": "background-primary",
+		"displayValue": "Background Primary"
+	},
+	"icon_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7606370c39030105a09f0ad9840dd40"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18b22c8c0100000001</claim_timestamp>
+        <metadata_update_name>sp_instance_c7606370c39030105a09f0ad9840dd40</metadata_update_name>
+        <previous_claim_app_version>27.1.5</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>plalitmewada</sys_created_by>
+        <sys_created_on>2023-10-12 07:27:43</sys_created_on>
+        <sys_id>694a374a87357910a395cbfc0ebb3550</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>plalitmewada</sys_updated_by>
+        <sys_updated_on>2023-10-12 07:27:43</sys_updated_on>
+    </sys_claim>
+</record_update>
